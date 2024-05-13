@@ -1,9 +1,6 @@
 
 
 
-
-
-
 salario_base = 5500
 comision_por_auto = 200
 
