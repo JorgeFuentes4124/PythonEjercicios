@@ -10,7 +10,7 @@ def promedio_seis():
     n6= float(input("Ingrese otro número"))
 
     suma = n1 + n2 + n3 + n4 + n5 + n6
-    promedio = 6 / suma
+    promedio = suma / 6
     print("El promedio es",promedio)
 
 promedio_seis()
