@@ -14,3 +14,4 @@ def promedio_seis():
     print("El promedio es",promedio)
 
 promedio_seis()
+
