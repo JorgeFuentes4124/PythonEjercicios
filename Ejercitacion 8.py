@@ -1,6 +1,6 @@
 
-parcial = 50
-total = 200
+parcial = int(input("Ingresar la cantidad total")) #es mejor ingresar 50 aquí como valor recomendado
+total = int(input("Ingresar la cantidad total")) #es mejor ingresar 200 aquí como valor recomendado
 
 # Calcular el porcentaje como un número decimal
 porcentaje = (parcial / total) * 100
