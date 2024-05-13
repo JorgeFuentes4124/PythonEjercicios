@@ -9,7 +9,7 @@ for i in range(6):
 promedio = sum(numeros) / len(numeros)
 
 # Mostrar el resultado
-print("El promedio de los números reales ingresados es:", promedio)
+print("El promedio de los números reales ingresados es:", promedio) 
 
 
 
