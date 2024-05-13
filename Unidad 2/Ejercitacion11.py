@@ -4,7 +4,7 @@
 Salario = 5500
 
 Comision_por_auto = 200
-   
+
 Autos_vendidos = int(input("ingrese número de autos"))
 valor_por_unidad = float(input("Ingrese numero del valor de venta por unidad"))
 
